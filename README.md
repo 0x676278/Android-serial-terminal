@@ -1,6 +1,6 @@
-# terminal
+# 安卓串口终端/android serial terminal
 
-A new Flutter project.
+A new Flutter project基于flutter，有编译好的安卓版，ui美观
 
 ## Getting Started
 
